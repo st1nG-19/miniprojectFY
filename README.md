@@ -8,7 +8,7 @@ bs4
 selenium
 pandas
 
-make sure that you install the above libraries in your system before running the code.
+Make sure that you install the above libraries in your system before running the code.
 
 # Project
 After executing the program, you are asked to enter a search query to search on www.amazon.in.
