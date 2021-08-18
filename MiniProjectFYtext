@@ -39,7 +39,7 @@ def extract_record(item):
 def main(search_term):
     '''Run main program routine'''
     # startup the web driver
-    driver = webdriver.Chrome('/home/soham/pypypy/chromedriver')
+    driver = webdriver.Chrome('chromedriver')
     
     records = []
     url = get_url(search_term)
